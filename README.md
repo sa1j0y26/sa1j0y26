@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/sa1j0y26/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sa1j0y26/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sa1j0y26/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sa1j0y26/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <!--
 **sa1j0y26/sa1j0y26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
